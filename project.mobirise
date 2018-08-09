@@ -73,7 +73,7 @@
         "url": "https://fonts.googleapis.com/css?family=Anton:400"
       }
     ],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/bang-128x85.png",
     "noImageResize": "",
     "uniqCompNum": 11,
     "versionPublish": "4.8.1"
